@@ -1,6 +1,19 @@
 # NasalCareAgent
 AI-powered nasal care diagnostics and personalized treatment recommendations
 
+## Quick Start
+### Development
+```bash
+npm run dev
+```
+
+Deploy application to Netlify
+
+npx vite build
+netlify
+Open website
+npm run dev
+
 ## Features
 ### AI Diagnosis
 - Upload photos for professional analysis and personalized care suggestions
