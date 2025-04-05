@@ -1,42 +1,25 @@
 # NasalCareAgent
-AI智能诊断
-上传照片，获取专业分析和个性化护理建议
+AI-powered nasal care diagnostics and personalized treatment recommendations
 
-上传图片
-No file chosen
-PNG, JPG 格式
+## Features
+### AI Diagnosis
+- Upload photos for professional analysis and personalized care suggestions
+- Supported formats: PNG, JPG
 
-实时语音咨询
-立即咨询
-AI赋能
-精准鼻腔护理
-结合人工智能与现代医学，为您提供个性化的鼻腔护理方案。 实时监测、智能分析、专业建议，守护您的呼吸健康。
+### Real-time Consultation
+- Instant voice consultation available
+- AI-powered precision nasal care
 
-核心功能
-融合AI技术与医学专业，为您提供全方位的鼻腔护理解决方案
+### Core Capabilities
+- **Real-time Pressure Monitoring**: Intelligent control of irrigation pressure to ensure safe care
+- **Mucus Color Analysis**: AI-powered condition recognition from uploaded photos
+- **Compliance Management**: Tracks user care habits with personalized reminders
+- **Data Visualization**: Clear progress tracking and health trend analysis
 
-实时压力监测
-智能控制冲洗压力，避免伤害，确保安全护理
+### Smart Care Process
+1. Intelligent pressure control for safe irrigation
+2. Upload symptom photos for AI analysis
+3. Receive personalized care recommendations
+4. Track progress through data visualization
 
-智能鼻涕颜色分析
-上传照片，AI识别病情并推荐个性化护理方案
-
-依从性管理
-追踪用户护理习惯，提供个性化提醒
-
-数据可视化
-直观展示护理进展，科学分析健康趋势
-
-智能护理流程
-四步轻松实现专业级鼻腔护理，让您的呼吸更加顺畅
-
-智能压力控制
-设备实时监测冲洗压力，自动调节水流强度，确保安全舒适的护理体验
-
-上传症状图片
-拍摄并上传鼻涕照片，AI系统将快速分析颜色特征
-
-
-
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/zyxcambridge/NasalCareAgent)
+[Edit in StackBlitz ⚡️](https://stackblitz.com/~/github.com/zyxcambridge/NasalCareAgent)
