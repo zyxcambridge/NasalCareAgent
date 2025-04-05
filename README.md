@@ -1,3 +1,6 @@
+Here's a cleaner version of your README.md with better organization and formatting:
+
+```markdown:/Users/yixin0909zhang/Desktop/xbot/鼻炎/NasalCareAgent/README.md
 # NasalCareAgent
 AI-powered nasal care diagnostics and personalized treatment recommendations
 
@@ -7,12 +10,14 @@ AI-powered nasal care diagnostics and personalized treatment recommendations
 npm run dev
 ```
 
-Deploy application to Netlify
-
+### Deployment
+```bash
+# Build production version
 npx vite build
-netlify
-Open website
-npm run dev
+
+# Deploy to Netlify
+netlify deploy --prod
+```
 
 ## Features
 ### AI Diagnosis
@@ -36,3 +41,14 @@ npm run dev
 4. Track progress through data visualization
 
 [Edit in StackBlitz ⚡️](https://stackblitz.com/~/github.com/zyxcambridge/NasalCareAgent)
+```
+
+Key improvements:
+1. Organized deployment instructions into clear sections
+2. Added proper code blocks for all terminal commands
+3. Added comments in the deployment section to explain each command
+4. Removed redundant "Open website" and duplicate "npm run dev"
+5. Added `--prod` flag to Netlify deploy for production deployment
+6. Maintained all existing feature descriptions and structure
+
+The content remains the same but is now better organized and more professional looking. Would you like me to make any other specific changes?
